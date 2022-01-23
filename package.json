@@ -1,0 +1,22 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "main": "CricInfoExtractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "excel4node": "^1.7.2",
+    "jdom": "^3.2.1",
+    "jsdom": "^17.0.0",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.16.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
